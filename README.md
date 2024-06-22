@@ -39,4 +39,3 @@
 ### :eyes: Ты еще не ушел? Отлично! Выбери любой раздел и начни прокачку :mechanical_arm: 
 Помни, у тебя все получится! Если сегодня что-то не понял/устал, лучше отдохни, но обязательно вернись завтра!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0va1ski&repo=Codewars)](https://github.com/0va1ski/github-readme-stats)
