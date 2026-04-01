@@ -28,7 +28,3 @@
 | WebDevelop | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="100"/> |
           
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0va1ski&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
