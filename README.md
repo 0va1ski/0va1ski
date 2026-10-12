@@ -12,7 +12,7 @@
 
 # :woman_technologist: About me :
 
-- :white_heart::blue_heart::heart: 19 y.o.
+- :white_heart::blue_heart::heart: 20 y.o.
 
 - :robot: I'm just a noob
   
